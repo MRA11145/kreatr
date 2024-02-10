@@ -1,0 +1,102 @@
+class DummyData {
+  List<Map<String, dynamic>> data = [
+    { 
+      "id" : "1707552528",
+      "task": "Podcast",
+      "details": "Start Podcast with Abdul",
+      "isAdded": false,
+      "isDone" : false,
+    },
+    {
+      "id": "1707552518",
+      "task": "Meet with GP",
+      "details": "Sync up with GP for ftuture planning",
+      "isAdded": false,
+      "isDone": false,
+    },
+    { 
+      "id": "1707552517",
+      "task": "Submit the Assignment",
+      "details": "Submit the assignment to Zakiya!!",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552516",
+      "task": "Get Hired :)",
+      "details": "No comments here ;;;;)",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552515",
+      "task": "Solve Some Leetcode problem",
+      "details": "Solve DP problem from medium to hard level",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552514",
+      "task": "Go to Gym",
+      "details": "Get ready for Gym at 6 PM",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552513",
+      "task": "Task 7",
+      "details": "Some random details for Task 7",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552512",
+      "task": "Task 8",
+      "details": "Some random details for Task 8",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552511",
+      "task": "Task 9",
+      "details": "Some random details for Task 9",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552510",
+      "task": "Task 10",
+      "details": "Some random details for Task 10",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552509",
+      "task": "Task 11",
+      "details": "Some random details for Task 11",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552508",
+      "task": "Task 12",
+      "details": "Some random details for Task 12",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552507",
+      "task": "Task 13",
+      "details": "Some random details for Task 13",
+      "isAdded": false,
+      "isDone": false,
+    },
+    {
+      "id": "1707552506",
+      "task": "Task 14",
+      "details": "Some random details for Task 14",
+      "isAdded": false,
+      "isDone": false,
+    }
+  ];
+}
